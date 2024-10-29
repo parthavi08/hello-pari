@@ -4,6 +4,7 @@ int main()
 {
 
 cout<<"HEllo world";/*print Hello world
+cout<<"msc.bioinfo";
 return 0;
 
 }
